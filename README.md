@@ -48,6 +48,7 @@ My neural network was able to become better at telling my twin sisters apart not
 
 ## Links
 ### Python Gist
+[gist](https://github.com/allisonbday/twin_recognition/blob/main/!OFFICIAL_Twin_Recognition.ipynb)
 
 ### Resources
 [Cropping Faces from Images using OpenCV – Python](https://www.google.com/url?q=https://www.geeksforgeeks.org/cropping-faces-from-images-using-opencv-python/&sa=D&source=docs&ust=1643328048164019&usg=AOvVaw2jqds9_VsS4oJswS_rfi4n)
