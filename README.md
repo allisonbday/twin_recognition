@@ -37,8 +37,8 @@ I made a survey of the test data set and had three groups fill it out: Strangers
 |        Strangers | 58%      |
 |  Extended Family | 85%      |
 | Immediate Family | 98%      |
-|    ***Google Photos | 50%***      |
-|         ***My Model | 76%***      |
+|    ***Google Photos*** | ***50%***      |
+|         ***My Model*** | ***76%***      |
 
 My model lands squarely in the middle between strangers and extended family. But it is far and away better than google photos. I found the google photos score by going back through my test photos and finding out where they were sorted. Some had listed both in the picture and I threw those out, but of the 20 left it was only 50% accurate- worse than strangers.
 
